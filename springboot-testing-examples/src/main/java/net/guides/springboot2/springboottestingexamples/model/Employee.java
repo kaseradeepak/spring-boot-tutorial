@@ -2,6 +2,7 @@ package net.guides.springboot2.springboottestingexamples.model;
 
 import jakarta.persistence.*;
 
+//Some random comment in Employee.java
 @Entity
 @Table(name = "employees")
 public class Employee {
